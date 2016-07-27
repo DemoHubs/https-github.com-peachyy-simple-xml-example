@@ -1,0 +1,5 @@
+<lure type="Trolling">
+    <company>${lure.company}</company>
+    <quantityInStock>23</quantityInStock>
+    <model>Marlin Buster</model>
+</lure>
